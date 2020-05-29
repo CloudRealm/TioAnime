@@ -1,6 +1,8 @@
 # ![app-icon](https://github.com/axiel7/TioAnime/blob/1.0/ic_launcher.png)TioAnime
 App Android para ver tu página de anime de confianza v:
 
+Nota: el código en GitHub pertenece a la versión 1.0, la versión 2.0 utiliza APIs privadas
+
 <a href="https://play.google.com/store/apps/details?id=com.axiel7.tioanime" target="_blank"><img alt="Google Play" height="90" src="https://play.google.com/intl/es_ES/badges/images/generic/es_badge_web_generic.png"/></a>
 
 ![Mockup](https://github.com/axiel7/TioAnime/blob/1.0/tiomockup2.0-web.png)
