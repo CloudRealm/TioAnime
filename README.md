@@ -1,9 +1,9 @@
-# ![app-icon](https://github.com/axiel7/TioAnime/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher.png)TioAnime
+# ![app-icon](https://github.com/axiel7/TioAnime/blob/1.0/ic_launcher.png)TioAnime
 App Android para ver tu página de anime de confianza v:
 
 <a href="https://play.google.com/store/apps/details?id=com.axiel7.tioanime" target="_blank"><img alt="Google Play" height="90" src="https://play.google.com/intl/es_ES/badges/images/generic/es_badge_web_generic.png"/></a>
 
-![Mockup](https://github.com/axiel7/TioAnime/blob/master/tiomockup2.0-web.png)
+![Mockup](https://github.com/axiel7/TioAnime/blob/1.0/tiomockup2.0-web.png)
 
 # Características
 * Ver animes online.
